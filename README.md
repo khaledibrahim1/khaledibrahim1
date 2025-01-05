@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Khaled Ibrahim
+# Hi there 👋:
+# I'm Khaled Ibrahim
 
 ## 👋 About Me
 Hello! I'm **Khaled Ibrahim**, a software developer and a student at the Faculty of Artificial Intelligence, Sphinx University.  
