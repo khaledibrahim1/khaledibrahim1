@@ -1,70 +1,21 @@
-# Khaled Ibrahim
+# 💫 About Me:
+# Khaled Ibrahim<br><br>## 👋 About Me<br>Hello! I'm **Khaled Ibrahim**, a software developer and a student at the Faculty of Artificial Intelligence, Sphinx University.  <br>I am passionate about programming and artificial intelligence, and I strive to develop innovative solutions that can improve people's lives.<br><br>## 💻 Skills<br>- **Programming Languages**: Python, C++, JavaScript<br>- **Frameworks & Technologies**: TensorFlow, Flask, Node.js<br>- **Databases**: MySQL, MongoDB<br>- **Other**: Git, GitHub, Machine Learning, Deep Learning<br><br>## 📚 Education<br>- **Bachelor's Degree**: Faculty of Artificial Intelligence - Sphinx University<br><br>## 🔭 My Projects<br>### 1. [Information Board](https://khaledibrahim1.github.io/Information-board/)<br>- **Project Description**:  <br>  "Information Board" is a full-stack project designed to present an interactive dashboard to display data visually and simply.  <br>  The project was built using modern front-end and back-end technologies.<br>  <br>- **Technologies Used**:  <br>  - **Frontend**: HTML, CSS, JavaScript  <br>  - **Backend**: Node.js, Express.js  <br>  - **Database**: MySQL  <br><br>- **Project Features**:  <br>  - Interactive and user-friendly interface.  <br>  - Real-time data display and analysis.  <br>  - Responsive design that works across different devices.<br><br>### 2. [Fire Detection](https://github.com/khaledibrahim1/Ai-Discover-fire)<br>- **Project Description**:  <br>  "Fire Detection" is an AI-based project that uses machine learning to detect fires through cameras.  <br>  The goal of the project is to provide innovative solutions for early fire detection to minimize damage and loss.<br><br>- **Technologies Used**:  <br>  - **Programming Language**: Python  <br>  - **Libraries**: OpenCV, TensorFlow  <br>  - **Models**: Neural Networks to accurately detect fires.<br><br>- **Project Features**:  <br>  - High accuracy in fire detection.  <br>  - Scalable for different types of cameras.  <br>  - Real-time fire alerts.<br><br>### 3. [Breast Cancer Prediction Using Classification Algorithms](https://github.com/khaledibrahim1/Machine-Learning)<br>- **Project Description**:  <br>  "Breast Cancer Prediction" is a project that uses classification algorithms to predict the likelihood of breast cancer based on medical data.  <br>  Several machine learning algorithms have been applied to analyze the data and identify patterns that can help doctors diagnose the disease faster and more accurately.<br><br>- **Technologies Used**:  <br>  - **Programming Language**: Python  <br>  - **Classification Algorithms**: SVM, K-Nearest Neighbors, Random Forest  <br>  - **Libraries**: scikit-learn, Pandas, Matplotlib  <br><br>- **Project Features**:  <br>  - High accuracy in predicting breast cancer.  <br>  - Comparison of different algorithm performances.  <br>  - Scalable model for use in medical applications.<br><br>## 🌟 My Goals<br>- Enhance my skills in Artificial Intelligence and Deep Learning.<br>- Contribute to open-source projects.<br>- Build solutions that help improve the world.<br><br>## 📫 Contact Me<br>- Email: [knowjkg@gmail.com](mailto:knowjkg@gmail.com)<br>- LinkedIn: [https://eg.linkedin.com/in/khaled-ibrahim-15b9922b0](https://eg.linkedin.com/in/khaled-ibrahim-15b9922b0)<br>- GitHub: [khaledibrahim1](https://github.com/khaledibrahim1)<br>
 
-## 👋 About Me
-Hello! I'm **Khaled Ibrahim**, a software developer and a student at the Faculty of Artificial Intelligence, Sphinx University.  
-I am passionate about programming and artificial intelligence, and I strive to develop innovative solutions that can improve people's lives.
 
-## 💻 Skills
-- **Programming Languages**: Python, C++, JavaScript
-- **Frameworks & Technologies**: TensorFlow, Flask, Node.js
-- **Databases**: MySQL, MongoDB
-- **Other**: Git, GitHub, Machine Learning, Deep Learning
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khaled.ibrahim._/?fbclid=IwY2xjawHngWZleHRuA2FlbQIxMAABHUcJDPbq0xEw9UR-Tv20bho0Zlg8Ii5OMBKTDHllLROWhLjh5j-1PCOkuw_aem_4NEektb7_07ZVoTcmIdsBw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://eg.linkedin.com/in/khaled-ibrahim-15b9922b0) 
 
-## 📚 Education
-- **Bachelor's Degree**: Faculty of Artificial Intelligence - Sphinx University
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khaled ibrahim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khaled ibrahim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled ibrahim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔭 My Projects
-### 1. [Information Board](https://khaledibrahim1.github.io/Information-board/)
-- **Project Description**:  
-  "Information Board" is a full-stack project designed to present an interactive dashboard to display data visually and simply.  
-  The project was built using modern front-end and back-end technologies.
-  
-- **Technologies Used**:  
-  - **Frontend**: HTML, CSS, JavaScript  
-  - **Backend**: Node.js, Express.js  
-  - **Database**: MySQL  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- **Project Features**:  
-  - Interactive and user-friendly interface.  
-  - Real-time data display and analysis.  
-  - Responsive design that works across different devices.
+---
+[![](https://visitcount.itsvg.in/api?id=khaled ibrahim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 2. [Fire Detection](https://github.com/khaledibrahim1/Ai-Discover-fire)
-- **Project Description**:  
-  "Fire Detection" is an AI-based project that uses machine learning to detect fires through cameras.  
-  The goal of the project is to provide innovative solutions for early fire detection to minimize damage and loss.
-
-- **Technologies Used**:  
-  - **Programming Language**: Python  
-  - **Libraries**: OpenCV, TensorFlow  
-  - **Models**: Neural Networks to accurately detect fires.
-
-- **Project Features**:  
-  - High accuracy in fire detection.  
-  - Scalable for different types of cameras.  
-  - Real-time fire alerts.
-
-### 3. [Breast Cancer Prediction Using Classification Algorithms](https://github.com/khaledibrahim1/Machine-Learning)
-- **Project Description**:  
-  "Breast Cancer Prediction" is a project that uses classification algorithms to predict the likelihood of breast cancer based on medical data.  
-  Several machine learning algorithms have been applied to analyze the data and identify patterns that can help doctors diagnose the disease faster and more accurately.
-
-- **Technologies Used**:  
-  - **Programming Language**: Python  
-  - **Classification Algorithms**: SVM, K-Nearest Neighbors, Random Forest  
-  - **Libraries**: scikit-learn, Pandas, Matplotlib  
-
-- **Project Features**:  
-  - High accuracy in predicting breast cancer.  
-  - Comparison of different algorithm performances.  
-  - Scalable model for use in medical applications.
-
-## 🌟 My Goals
-- Enhance my skills in Artificial Intelligence and Deep Learning.
-- Contribute to open-source projects.
-- Build solutions that help improve the world.
-
-## 📫 Contact Me
-- Email: [knowjkg@gmail.com](mailto:knowjkg@gmail.com)
-- LinkedIn: [https://eg.linkedin.com/in/khaled-ibrahim-15b9922b0](https://eg.linkedin.com/in/khaled-ibrahim-15b9922b0)
-- GitHub: [khaledibrahim1](https://github.com/khaledibrahim1)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
