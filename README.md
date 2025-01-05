@@ -2,7 +2,7 @@
 # I'm Khaled Ibrahim
 
 ## 👋 About Me
-Hello! I'm **Khaled Ibrahim**, a software developer and a student at the Faculty of Artificial Intelligence, Sphinx University.  
+Software developer and a student at the Faculty of Artificial Intelligence, Sphinx University.  
 I am passionate about programming and artificial intelligence, and I strive to develop innovative solutions that can improve people's lives.
 
 ## 💻 Skills
