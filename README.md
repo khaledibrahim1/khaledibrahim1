@@ -39,5 +39,7 @@ I am passionate about programming and artificial intelligence, and I strive to d
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
+### 📈 GitHub Activity Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=khaledibrahim1&theme=github-dark)
 
 [![](https://visitcount.itsvg.in/api?id=khaledibrahim1&icon=0&color=0)](https://visitcount.itsvg.in)
