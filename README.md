@@ -42,12 +42,4 @@ I am passionate about programming and artificial intelligence, and I strive to d
 
 [![](https://visitcount.itsvg.in/api?id=khaledibrahim1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-name: Full history calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.calendar.full.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_calendar: yes
-  plugin_calendar_limit: 0
 
