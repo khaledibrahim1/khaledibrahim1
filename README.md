@@ -27,7 +27,7 @@ I am passionate about programming and artificial intelligence, and I strive to d
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khaled.ibrahim._/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khaled.ibrahim._/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-ibrahim-15b9922b0/)
 
 ---
@@ -37,9 +37,21 @@ I am passionate about programming and artificial intelligence, and I strive to d
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledibrahim1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
 ### 📈 GitHub Activity Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=khaledibrahim1&theme=github-dark)
 
-[![](https://visitcount.itsvg.in/api?id=khaledibrahim1&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
+## 📊 Metrics Dashboard
+![Metrics](https://github.com/khaledibrahim1/metrics/blob/master/github-metrics.svg)
+
+---
+
+## 📌 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=khaledibrahim1&theme=darkhub)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=khaledibrahim1&icon=0&color=0)](https://visitcount.itsvg.in)
 
