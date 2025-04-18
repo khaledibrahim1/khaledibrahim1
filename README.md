@@ -41,4 +41,11 @@ I am passionate about programming and artificial intelligence, and I strive to d
 ### 📈 GitHub Activity Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=khaledibrahim1&theme=github-dark)
 
+![Banner](assets/Banner.png)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+</picture>
