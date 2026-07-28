@@ -1,0 +1,51 @@
+[
+  {
+    "name": "CYBER CRYPT",
+    "repo": "khaledibrahim1/cyber-crypt",
+    "logo": "logo.png",
+    "description": "Advanced Security Platform implementing 10+ encryption algorithms & military-grade secure messaging system.",
+    "tags": ["Node.js", "Express", "MongoDB", "OAuth 2.0"]
+  },
+  {
+    "name": "HR Management System",
+    "repo": "khaledibrahim1/hr-management-system",
+    "logo": "logo.png",
+    "description": "Full-featured HR system reducing payroll processing time by 40% with granular RBAC for SJ Company (KSA).",
+    "tags": ["Node.js", "Express", "MongoDB", "RBAC"]
+  },
+  {
+    "name": "Investment ROI Calculator",
+    "repo": "khaledibrahim1/investment-roi-calculator",
+    "logo": "logo.png",
+    "description": "Full-stack ROI calculator for Trustee Holding (UAE) with real-time analysis and automated PDF reports.",
+    "tags": ["Node.js", "React", "Automation"]
+  },
+  {
+    "name": "Aqar AI-Powered System",
+    "repo": "khaledibrahim1/aqar-ai-system",
+    "logo": "logo.png",
+    "description": "Fault-tolerant scraping pipeline collecting 10,000+ real estate records with AI-driven analytics (KSA Market).",
+    "tags": ["Node.js", "Puppeteer", "AI Analytics"]
+  },
+  {
+    "name": "Budget Buddy",
+    "repo": "khaledibrahim1/budget-buddy",
+    "logo": "logo.png",
+    "description": "AI Agents for real-time financial advice with <200ms latency powered by Gemini API.",
+    "tags": ["Node.js", "AI Agents", "Gemini API"]
+  },
+  {
+    "name": "Breast Cancer Prediction",
+    "repo": "khaledibrahim1/breast-cancer-prediction",
+    "logo": "logo.png",
+    "description": "Deployed ML models (SVM, KNN, RandomForest) achieving high accuracy in tumor classification.",
+    "tags": ["Python", "Scikit-learn", "ML"]
+  },
+  {
+    "name": "Networks Infrastructure Design",
+    "repo": "khaledibrahim1/network-infrastructure-design",
+    "logo": "logo.png",
+    "description": "Scalable network infrastructure supporting VLANs, DHCP, and secure routing protocols.",
+    "tags": ["Cisco", "Packet Tracer", "VLANs"]
+  }
+]
